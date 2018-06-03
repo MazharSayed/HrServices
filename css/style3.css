@@ -1,0 +1,26 @@
+*{
+  margin:20px;
+  padding:0px;
+}
+body{
+    background-image:url(../images/.png);
+	background-repeat:no-repeat;
+}
+P{
+	font-style:italic;
+	font-size:20px; 	
+
+}
+img{
+	margin:auto;
+	
+	
+	
+}
+
+a{
+	margin-left:475px;
+	text-decoration:none;
+	
+	
+}

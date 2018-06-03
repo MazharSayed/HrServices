@@ -1,0 +1,66 @@
+
+input[type=text]{
+	
+	margin-left:120px;
+	
+	
+}
+input[type=name]{
+	
+	margin-left:13px;
+	
+	
+}
+input[type=password]{
+	
+	margin-left:18px;
+	padding:2px;
+	
+	
+}
+input[type=email]{
+	
+	margin-left:48px;
+	
+	
+}
+.s{ 
+margin-top:15px;
+margin-left:px;
+
+}
+
+.s ul li a{
+         width:180px;
+         color:white;		 
+		 height:60px;          
+		 font-size:20px;
+        border-radius:7px;	
+		text-align:center;	
+}
+.s  ul li a:hover{
+	background:linear-gradient(to bottom right,red,yellow);
+		 }
+		 h1{
+		     
+			 font-size: 35px;
+             font-style: oblique;
+             			 		 
+	         margin-top:15px;	 
+		 }
+		 .s2{
+			 
+			 height:150px;
+			 
+			 
+			 
+		 }
+
+		
+	
+	#myFooter{
+		background-color:black;
+		
+		
+		
+	}
